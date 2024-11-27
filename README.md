@@ -4,6 +4,8 @@
 
 🌱 Also, I’m learning computer engineering toooo
 
+💖 I love the natural with the animal, plants, sky, wind and sunshine I see around me!
+
 <!--
 **ddokugg/ddokugg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
