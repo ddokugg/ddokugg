@@ -1,13 +1,13 @@
 ## Welcome guys~ 👋
 
-🔭 I’m learning ecological engineering ...
+🔭 I’m learning ecological engineering
 
-🌱 Also, I’m learning computer engineering toooo...
+🌱 Also, I’m learning computer engineering toooo
+
 <!--
 **ddokugg/ddokugg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
